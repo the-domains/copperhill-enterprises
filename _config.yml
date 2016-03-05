@@ -1,0 +1,28 @@
+name: CopperHill Enterprises
+favicon: null
+layout_spectrum: 0.9121832277160138
+typography_spectrum: 0.35977909225039184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.36313374736346304
+  lightness: 0.5503666349686682
+  saturation: 0.7199665964581072
+  rhythmicContrast: 0.8992894412949681
+purpose: []
